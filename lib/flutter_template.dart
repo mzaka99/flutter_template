@@ -3,7 +3,7 @@ library flutter_template;
 import 'package:flutter/material.dart';
 
 class Session {
-  String jwt = 'agshasbhjabsbasbahjbsahbshjb';
+  static String jwt = 'agshasbhjabsbasbahjbsahbshjb';
 }
 
 // ignore: must_be_immutable
