@@ -2,6 +2,10 @@ library flutter_template;
 
 import 'package:flutter/material.dart';
 
+class Session {
+  String jwt = 'agshasbhjabsbasbahjbsahbshjb';
+}
+
 // ignore: must_be_immutable
 class CustomButton extends StatelessWidget {
   VoidCallback onPressed;
