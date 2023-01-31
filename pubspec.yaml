@@ -11,6 +11,14 @@ dependencies:
   flutter:
     sdk: flutter
 
+  #package
+
+dependency_overrides:
+  embed_third_party:
+    git:
+      url: https://git.blackeye.id/mobile-dev/smart-city-v3-flutter
+      ref: embed_third_party
+
 dev_dependencies:
   flutter_test:
     sdk: flutter

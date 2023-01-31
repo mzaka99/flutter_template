@@ -2,8 +2,8 @@ library flutter_template;
 
 import 'package:flutter/material.dart';
 
-class Session {
-  static String jwt = 'agshasbhjabsbasbahjbsahbshjb';
+class RouteCustomMenu {
+  static String path = '/menu-custom';
 }
 
 // ignore: must_be_immutable
